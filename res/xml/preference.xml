@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:title="@string/calibrationTitle" android:summary="@string/calibrationSummary" 
+        
+        android:entryValues="@array/adjustment" android:entries="@array/adjustment_string"
+        android:key="dayAdjustment"
+        
+        />
+    
+
+</PreferenceScreen>
