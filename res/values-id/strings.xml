@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarikh Hijrah</string>
+    <string name="menu_settings">Tetapan</string>
+    <string name="menu_about">Tentang</string>
+    <string name="waning_gibbous">Menurun</string>
+    <string name="waxing_gibbous">Mengambang</string>
+    <string name="new_moon">Bulan Baru</string>
+    <string name="first_quarter_moon">Mengambang Suku</string>
+    <string name="full_moon">Bulan Penuh</string>
+    <string name="third_quarter_moon">Menurun Suku</string>
+    <string name="waxing_crescent">Sabit Menaik</string>
+    <string name="waning_crescent">Sabit Menurun</string>
+    <string name="darkmoon">Anak Bulan</string>
+    <string name="calibrationTitle">Pelarasan</string>
+    <string name="calibrationSummary">Pelarasan tarikh Hijrah</string>
+    
+
+    <string-array name="adjustment">
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        
+    </string-array>
+    
+   <string-array name="adjustment_string">
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0 (Nilai Disyorkan)</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+       
+       </string-array>
+    
+   <string-array name="moon_phase_text">
+       			<item>Bulan Baru</item>
+				<item>Bulan Sabit Menaik</item>
+				<item>Menaik Suku</item>
+				<item>Menaik</item>
+				<item>Bulan Penuh</item>
+				<item>Menurun</item>
+				<item>Menurun Suku</item>
+				<item>Bulan Sabit Menurun</item>
+          </string-array>
+          
+   <string-array name="hijrimonth_text">
+       				<item>NULL</item>
+				<item>Muharram</item>
+				<item>Safar</item>
+				<item>Rabiul-awal</item>
+				<item>Rabiul-akhir </item>
+				<item>Jamadilawal</item>
+				<item>Jamadilakhir</item>
+				<item>Rejab</item>
+				<item>Syaaban</item>
+				<item>Ramadhan</item>
+				<item>Syawal</item>
+				<item>Dzulkaedah</item>
+				<item>Dzulhijjah</item>
+				
+       
+   </string-array>
+   <string-array name="day_in_week">
+   	             <item>Ahad</item>
+                <item>Isnin</item>
+                <item>Selasa</item>
+                <item>Rabu</item>
+                <item>Khamis</item>
+                <item>Jumaat</item>
+                <item>Sabtu</item>
+   </string-array>
+   
+   <string-array name="month_text">
+                       <item>Januari</item>
+                <item>Februari</item>
+                <item>Mac</item>
+                <item>April</item>
+                <item>Mei</item>
+                <item>Jun</item>
+                <item>Julai</item>
+                <item>Ogos</item>
+                <item>September</item>
+                <item>Oktober</item>
+                <item>November</item>
+                <item>Disember</item>
+       
+       
+   </string-array>
+   
+   
+   <string name="txtLicense">Copyright © 2013 Mohammad Hafiz Ismail\nEmail: &lt;mypapit@gmail.com&gt;\nWeb: hijridate-android.googlecode.com\nMoon phase icons: droide\n\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\nSee the GNU General Public License for more details.\n\n"</string>
+</resources>
+    
